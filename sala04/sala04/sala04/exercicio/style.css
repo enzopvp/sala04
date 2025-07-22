@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} 
+
+body{
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    gap: 20px;
+}
+
+button{
+    color: blue;
+    background-color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 999px;
+}
+
+button:hover{
+    cursor: pointer;
+    border: 3px solid yellow;
+    background-color: darkgreen;
+
+}
