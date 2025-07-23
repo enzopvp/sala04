@@ -25,6 +25,5 @@ button:hover{
     cursor: pointer;
     border: 3px solid yellow;
     background-color: darkgreen;
-    box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
 
 }
